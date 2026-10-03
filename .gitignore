@@ -1,0 +1,23 @@
+# Rust build output
+/target/
+
+# Rust language server / rust-analyzer
+rust-project.json
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# OS/editor temporary files
+*.tmp
+*.temp
