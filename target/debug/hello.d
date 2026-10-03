@@ -1,0 +1,1 @@
+/Users/vishawdeepsingh/workspace/personal/learn-rust/hello/target/debug/hello: /Users/vishawdeepsingh/workspace/personal/learn-rust/hello/src/lib.rs /Users/vishawdeepsingh/workspace/personal/learn-rust/hello/src/main.rs
